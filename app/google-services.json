@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841819513207",
+    "project_id": "firestorehelana",
+    "storage_bucket": "firestorehelana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841819513207:android:1a4927f03096be94844172",
+        "android_client_info": {
+          "package_name": "com.example.firestorehelana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841819513207-j91phkd6cqb15fh8fkulm3ctj0e9628b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ7aTnKVsFfJR85gfKv_s-khJNVnxVVVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841819513207-j91phkd6cqb15fh8fkulm3ctj0e9628b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
